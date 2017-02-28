@@ -39,18 +39,6 @@
       "phone": "06.66.32.87.39.72",
       "email": "mangera@q.larumanum.ka",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores fugit molestias, voluptatem id blanditiis modi nobis eum esse fugiat debitis dignissimos voluptatum minus iusto provident fuga libero aliquid asperiores omnis quaerat. Incidunt, consequatur dicta quia."
-    },
-    {
-      "civilitée": "Mr",
-      "nom": "Cyr",
-      "prenom": "Den",
-      "pseudo": "see",
-      "email": "Cyrden@hhh",
-      "tel": "1234567890",
-      "password": "Azerty123456789",
-      "confirmPasswordInput": "Azerty123456789",
-      "submit": "Submit",
-      "id": 5
     }
   ]
 }
